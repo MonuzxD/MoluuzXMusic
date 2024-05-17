@@ -68,7 +68,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - ɪғ ʏᴏᴜ'ʀᴇ ʜᴀᴠɪɴɢ ᴀɴʏ ɪssᴜᴇs ɪɴ ᴀɴʏ ᴏғ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs, ᴘʟᴇᴀsᴇ sʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ᴜs
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://telegra.ph/file/868c675d251c49271ed18.mp4">
 
 <h3 align="center">
     ─「 ❣ ᴄᴏᴍᴍᴀɴᴅs ❣ 」─   
