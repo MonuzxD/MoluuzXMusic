@@ -102,7 +102,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://t.me/TBN_StringGeneratorRobot"(https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-String%20Robot-darkblue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://telegra.ph/file/868c675d251c49271ed18.mp4">
 
 <h3 align="center">
     ─「 ❣ ᴏᴡɴᴇʀ ❣ 」─
